@@ -1,3 +1,5 @@
+https://matlab.mathworks.com/open/github/v1?repo=/Tharikaa-Kumar/NeuroMiner_1.1
+
 # Latest release Sep 2023 (NeuroMiner 1.2 Feanor)
 https://github.com/neurominer-git/NeuroMiner_1.2
 
