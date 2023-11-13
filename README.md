@@ -1,4 +1,4 @@
-https://matlab.mathworks.com/open/github/v1?repo=/Tharikaa-Kumar/NeuroMiner_1.1
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=/Tharikaa-Kumar/NeuroMiner_1.1)
 
 # Latest release Sep 2023 (NeuroMiner 1.2 Feanor)
 https://github.com/neurominer-git/NeuroMiner_1.2
@@ -41,4 +41,4 @@ For more details on “copyleft”, see https://www.gnu.org/copyleft/
 NeuroMiner is supplied as is:
 No formal support or maintenance is provided or implied.
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=/Tharikaa-Kumar/NeuroMiner_1.1)
+
